@@ -1,8 +1,14 @@
+Two-tier Architecture for HR System
+
+The system has built using two-tier architecture i.e., Application and Database servers.In Application server, we handle business logics, UI and Databasse servers used to store and manage data.
+
+
+
 sudo apt-get update
 # For Sql-client
 sudo apt-get install mysql-client
 
-# For python and related frameworks
+# For python and its frameworks
 
 sudo apt-get install python3
 sudo apt-get install python3-flask
